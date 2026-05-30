@@ -1,26 +1,21 @@
 {
-  "name": "mesa-tecnica-node",
+  "name": "mesa-tecnica-nodejs",
   "version": "1.0.0",
-  "description": "es una clase de explicacion de node.js ",
-  "keywords": [
-    "mesa",
-    "tecnica",
-    "nodejs",
-    "aprender"
-  ],
-  "homepage": "https://github.com/Tamara12119/mesa-tecnica-node.js#readme",
+  "description": "software de explicacion de nodejs",
+  "homepage": "https://github.com/gabrielrincon/mesa-tecnica-nodejs#readme",
   "bugs": {
-    "url": "https://github.com/Tamara12119/mesa-tecnica-node.js/issues"
+    "url": "https://github.com/gabrielrincon/mesa-tecnica-nodejs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tamara12119/mesa-tecnica-node.js.git"
+    "url": "git+https://github.com/gabrielrincon/mesa-tecnica-nodejs.git"
   },
   "license": "MIT",
-  "author": "Programadores para la paz",
+  "author": "PPP",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
